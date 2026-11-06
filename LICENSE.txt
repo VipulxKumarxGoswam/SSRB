@@ -1,0 +1,56 @@
+# SSRB v0.1 — PROPRIETARY EVALUATION LICENSE
+
+Copyright (c) 2026 Vipul Goswami / Variseocisklabs.
+
+All rights reserved.
+
+## 1. Ownership
+
+SSRB (Symmetrically Shrinking Radix Bucket), including its software, architecture, implementation, documentation, and associated intellectual property, is owned by Vipul Goswami / Variseocisklabs, subject to applicable law.
+
+## 2. Permission to Evaluate
+
+The copyright owner grants the recipient a limited, non-exclusive, non-transferable, revocable license to download, install, execute, and evaluate the supplied SSRB v0.1 SDK for personal, educational, research, and non-commercial testing purposes.
+
+## 3. Restrictions
+
+Without prior written permission from the copyright owner, the recipient may not:
+
+- Use SSRB in commercial or production systems.
+- Sell, sublicense, or commercially distribute SSRB.
+- Redistribute or republish the SDK or its compiled library.
+- Claim ownership of SSRB or its original implementation.
+- Modify or create derivative distributions of the SDK.
+- Reverse-engineer or attempt to recover the private source implementation, to the extent permitted by applicable law.
+
+Nothing in this license restricts rights that cannot lawfully be restricted under applicable law.
+
+## 4. Private Implementation
+
+The supplied SDK may contain compiled SSRB implementation code. The original private implementation source code is not included or licensed under this agreement.
+
+## 5. No Warranty
+
+SSRB is provided "AS IS", without warranties of any kind, to the extent permitted by applicable law.
+
+The copyright owner is not responsible for damages arising from use of the evaluation SDK, subject to applicable law.
+
+## 6. Commercial Licensing
+
+Commercial, production, or other uses outside the evaluation permission require a separate written license agreement with the copyright owner.
+
+## 7. Termination
+
+The evaluation permission may be terminated by the copyright owner in accordance with applicable law. Upon termination, the recipient must stop using the SDK and comply with applicable deletion obligations.
+
+## 8. Contact and Licensing
+
+For commercial licensing, permissions, or other inquiries, contact the copyright owner through the official contact details published with the SSRB project.
+
+---
+
+**SSRB v0.1.0 — Proprietary Evaluation Release**
+
+Copyright (c) 2026 Vipul Goswami / Variseocisklabs.
+
+All rights reserved.
