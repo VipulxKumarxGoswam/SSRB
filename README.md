@@ -1,6 +1,11 @@
 \# SSRB Public SDK v0.1
 
+Time & Space Complexity
 
+- Lookup: O(1) — deterministic,  collision-free routing.
+- Insertion: O(1).
+- Deletion: O(1).
+- Space: O(U) bits, where U is the supported key universe.
 
 This is the public-facing header and example for the SSRB closed-core SDK.
 
